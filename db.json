@@ -17,18 +17,6 @@
         "email": "Juuh@gmail.com"
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "Otimo aluno",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "a aula está muito boa",
-      "postId": 1
-    }
-  ],
   "profile": {
     "name": "mlluizDevTech"
   }
