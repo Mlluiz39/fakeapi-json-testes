@@ -1,32 +1,35 @@
 
 {  
-"posts": [
+"users": [
     {
       "id": 1,
-      "title": "Post 1"
+      "name": "Marcelo",
+        "email": "mlluiz@gmail.com"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "name": "Cilene",
+        "email": "cilene@gmail.com"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "name": "Julia",
+        "email": "Juuh@gmail.com"
     }
   ],
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
+      "body": "Otimo aluno",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "some comment",
+      "body": "a aula está muito boa",
       "postId": 1
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "mlluizDevTech"
   }
 }
